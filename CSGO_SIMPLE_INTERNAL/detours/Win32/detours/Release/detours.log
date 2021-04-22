@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Detours.cpp
+  Detours32.cpp
+  Detours64.cpp
+C:\Users\Squash\Downloads\est\detours-master\detours\Detours32.cpp(90,32): warning C4244: '=': conversion from 'uint64_t' to 'uintptr_t', possible loss of data
+C:\Users\Squash\Downloads\est\detours-master\detours\Detours32.cpp(93,31): warning C4244: '=': conversion from 'uint64_t' to 'uintptr_t', possible loss of data
+  HideStaticLibSymbols.c
+  detours.vcxproj -> C:\Users\Squash\Downloads\est\detours-master\Win32\Release\detours.lib
